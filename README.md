@@ -52,7 +52,7 @@ Projeto criado para o Lab da DIO, explorando o poder das IAs generativas em apli
 
 ## 🌍 **Conecte-se Comigo**
 - **GitHub:** [Tattianerl](https://github.com/Tattianerl)
-- **LinkedIn:** [Tatiane Lima](www.linkedin.com/in/tati-lima85/)
+- **LinkedIn:** [Tatiane Lima](https://www.linkedin.com/in/tati-lima85/)
   
 
 Estou em busca de uma oportunidade que me permita crescer como desenvolvedora e contribuir para o sucesso de uma equipe. Se você está procurando por um desenvolvedor júnior dedicado e com vontade de aprender, vamos conversar!
