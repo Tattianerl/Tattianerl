@@ -21,11 +21,11 @@ Bem-vindo ao meu repositório! Sou uma desenvolvedora júnior em busca de uma op
 ---
 
 ## 🛠️ **Minhas Habilidades**
-- **Linguagens de Programação:** JavaScript, TypeScript, C#.
+- **Linguagens de Programação:** JavaScript, C#.
 - **Frontend:** React.js, HTML5, CSS3, Design Responsivo.
-- **Backend:** .NET, Node.js, Django REST Framework.
+- **Backend:** .NET, Node.js.
 - **Banco de Dados:** SQL Server, MongoDB.
-- **DevOps:** Docker, CI/CD (GitHub Actions), Controle de Versionamento (Git).
+- **DevOps:** noções de Docker, CI/CD (GitHub Actions), Controle de Versionamento (Git).
 - **Outros:** APIs RESTful, Testes Automatizados, Segurança de Aplicações.
 
 ---
@@ -57,6 +57,3 @@ Projeto criado para o Lab da DIO, explorando o poder das IAs generativas em apli
 
 Estou em busca de uma oportunidade que me permita crescer como desenvolvedora e contribuir para o sucesso de uma equipe. Se você está procurando por um desenvolvedor júnior dedicado e com vontade de aprender, vamos conversar!
 
----
-
-> Atualize esse README conforme novos projetos forem criados. Isso reforça sua presença e organização no GitHub!
