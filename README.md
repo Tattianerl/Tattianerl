@@ -32,6 +32,9 @@ Bem-vindo ao meu repositório! Sou uma desenvolvedora júnior em busca de uma op
 
 ## 📌 **Projetos em Destaque**
 
+### [Rede de Apoio Inteligente](https://sites.google.com/view/rededeapoio-inteligente)
+A Rede de Apoio Inteligente é um chatbot que utiliza inteligência artificial para oferecer suporte emocional, profissional e educacional. Ele auxilia usuários com orientação, conexão a recursos e cursos, proporcionando um ambiente de apoio acessível e interativo. 🚀
+
 ### [Minimal API](https://github.com/Tattianerl/minimal-api)
 Uma aplicação que explora o uso de APIs minimalistas com .NET 8, destacando modularidade e performance.
 
