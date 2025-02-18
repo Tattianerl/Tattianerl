@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 # 🌟 **Tattianerl: Aspirante a Desenvolvedora Full Stack | Buscando Oportunidades para Iniciar Carreira em Tecnologia**
 
-Bem-vindo ao meu repositório! Sou uma desenvolvedora júnior em busca de uma oportunidade para iniciar minha carreira na área de tecnologia. Embora eu não tenha experiência formal ainda, estou comprometida em aprender e aplicar meus conhecimentos em programação para contribuir com projetos reais.
+Bem-vindo ao meu repositório!Busco minha primeira oportunidade na área de tecnologia como Desenvolvedora Full Stack Júnior, Desenvolvedora Backend, Desenvolvedora Frontend ou Analista de Sistemas Júnior. Meu objetivo é aplicar e expandir meus conhecimentos em desenvolvimento de software, contribuindo para soluções inovadoras e eficientes.
+
+
 
 ---
 
