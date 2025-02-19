@@ -26,7 +26,7 @@ Bem-vindo ao meu repositório!Busco minha primeira oportunidade na área de tecn
 - **Linguagens de Programação:** JavaScript, C#.
 - **Frontend:** React.js, HTML5, CSS3, Design Responsivo.
 - **Backend:** .NET, Node.js.
-- **Banco de Dados:** SQL Server, MongoDB.
+- **Banco de Dados:** MySQL, SQL Server, MongoDB.
 - **DevOps:** noções de Docker, CI/CD (GitHub Actions), Controle de Versionamento (Git).
 - **Outros:** APIs RESTful, Testes Automatizados, Segurança de Aplicações.
 
