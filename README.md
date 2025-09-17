@@ -1,68 +1,39 @@
-## Hi there 👋
+# Olá! Eu sou Tatiane R Lima (@tattianerl) 👋
 
-<!--
-**Tattianerl/Tattianerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em **Sistemas para Internet** pela Estácio e certificada em **UX Design pelo Google**, com mais de 10 anos de experiência em atendimento ao cliente e vendas.  
+Desenvolvedora Full Stack em formação, unindo front-end, back-end e experiência de usuário.
 
-Here are some ideas to get you started:
+## 🏢 Atuação Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 🌟 **Tattianerl: Aspirante a Desenvolvedora Full Stack | Buscando Oportunidades para Iniciar Carreira em Tecnologia**
+- +10 anos em atendimento ao cliente e vendas, com foco em comunicação, empatia e satisfação do usuário.  
+- Experiência prática em UX Design e desenvolvimento web, projetando interfaces intuitivas e soluções centradas no usuário.  
 
-Bem-vindo ao meu repositório!Busco minha primeira oportunidade na área de tecnologia como Desenvolvedora Full Stack Júnior, Desenvolvedora Backend, Desenvolvedora Frontend ou Analista de Sistemas Júnior. Meu objetivo é aplicar e expandir meus conhecimentos em desenvolvimento de software, contribuindo para soluções inovadoras e eficientes.
+## 📱 Especialidades
 
+- **Front-end:** React.js, HTML5, CSS3, JavaScript moderno (ES6+), responsividade, acessibilidade  
+- **Back-end:** Node.js, Express, .NET  
+- **Banco de Dados:** MySQL, SQL Server, MongoDB  
+- **UX/UI:** Figma, prototipagem, design centrado no usuário, usabilidade  
+- **Ferramentas:** Git & GitHub, uso de APIs REST, integração contínua  
 
+## 🚀 O que me motiva
 
----
+Atualmente estou focada em me desenvolver como **Desenvolvedora Full Stack**, buscando oportunidades onde possa construir soluções completas (front & back) aliadas à UX/UI.  
+Também me dedico a estudar **IA Generativa** para potencializar projetos criativos, automações e interfaces mais inteligentes.
 
-## 🛠️ **Minhas Habilidades**
-- **Linguagens de Programação:** JavaScript, C#.
-- **Frontend:** React.js, HTML5, CSS3, Design Responsivo.
-- **Backend:** .NET, Node.js.
-- **Banco de Dados:** MySQL, SQL Server, MongoDB.
-- **DevOps:** noções de Docker, CI/CD (GitHub Actions), Controle de Versionamento (Git).
-- **Outros:** APIs RESTful, Testes Automatizados, Segurança de Aplicações.
+## 📌 Projetos em Destaque
 
----
+🌐 [Meu Portfólio Pessoal](https://tattianerl.github.io/Portifolio/) — site pessoal em que reúno meus projetos, apresentação profissional, e stack de tecnologias.  
 
-## 📌 **Projetos em Destaque**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=Api-node-JWT&theme=dark)](https://github.com/tattianerl/Api-node-JWT)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=interface-finance-app&theme=dark)](https://github.com/tattianerl/interface-finance-app)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=lab-natty-or-not&theme=dark)](https://github.com/tattianerl/lab-natty-or-not)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=wikipedia-clone&theme=dark)](https://github.com/tattianerl/wikipedia-clone)  
 
-### [Rede de Apoio Inteligente](https://sites.google.com/view/rededeapoio-inteligente)
-A Rede de Apoio Inteligente é um chatbot que utiliza inteligência artificial para oferecer suporte emocional, profissional e educacional. Ele auxilia usuários com orientação, conexão a recursos e cursos, proporcionando um ambiente de apoio acessível e interativo. 🚀
+## 📊 GitHub Stats
 
-### [Tela de login responsiva](https://tattianerl.github.io/projeto_tela_login/)
-Interface de login responsiva com design moderno em HTML e CSS.
+![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=tattianerl&show_icons=true&theme=dark)
 
+## 🧠 Linguagens Mais Usadas
 
-### [Minimal API](https://github.com/Tattianerl/minimal-api)
-Uma aplicação que explora o uso de APIs minimalistas com .NET 8, destacando modularidade e performance.
-
-### [Interface Finance App](https://github.com/Tattianerl/interface-finance-app)
-Protótipo de uma aplicação financeira com foco em usabilidade e design moderno.
-
-### [Lab Natty or Not](https://github.com/Tattianerl/lab-natty-or-not)
-Projeto criado para o Lab da DIO, explorando o poder das IAs generativas em aplicações criativas.
-
----
-
-## 🎯 **Meus Diferenciais**
-- Comprometida com o Aprendizado: Busco constantemente me atualizar com as tecnologias mais recentes e boas práticas de desenvolvimento.
-- Projetos Pessoais: Desenvolvi projetos que demonstram minha capacidade de aprender novas ferramentas e aplicá-las de forma criativa.
-- Foco em Crescimento Profissional: Estou pronta para contribuir com uma equipe e aprender com profissionais mais experientes, ajudando a resolver problemas reais.
-
----
-
-## 🌍 **Conecte-se Comigo**
-- **GitHub:** [Tattianerl](https://github.com/Tattianerl)
-- **LinkedIn:** [Tatiane Lima](https://www.linkedin.com/in/tati-lima85/)
-  
-
-Estou em busca de uma oportunidade que me permita crescer como desenvolvedora e contribuir para o sucesso de uma equipe. Se você está procurando por um desenvolvedor júnior dedicado e com vontade de aprender, vamos conversar!
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tattianerl&layout=compact&theme=dark)
