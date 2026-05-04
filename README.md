@@ -25,7 +25,7 @@ Também me dedico a estudar **IA Generativa** para potencializar projetos criati
 
 🌐 [Meu Portfólio Pessoal](https://tattianerl.github.io/Portifolio/) — site pessoal em que reúno meus projetos, apresentação profissional, e stack de tecnologias.  
 
-[Gerador de QrCOdel](https://github.com/Tattianerl/qrcode-generator) - Gerador de QR Code moderno, rápido e inteligente, capaz de interpretar diferentes tipos de dados (Wi-Fi, contato, WhatsApp, etc.) e gerar códigos prontos com identidade visual personalizada.
+[Gerador de QrCode](https://github.com/Tattianerl/qrcode-generator) - Gerador de QR Code moderno, rápido e inteligente, capaz de interpretar diferentes tipos de dados (Wi-Fi, contato, WhatsApp, etc.) e gerar códigos prontos com identidade visual personalizada.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=Api-node-JWT&theme=dark)](https://github.com/tattianerl/Api-node-JWT)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=interface-finance-app&theme=dark)](https://github.com/tattianerl/interface-finance-app)  
