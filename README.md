@@ -1,7 +1,5 @@
 # Olá! Eu sou Tatiane R Lima (@tattianerl) 👋
-
-Sou formada em **Sistemas para Internet** pela Estácio e certificada em **UX Design pelo Google**, com mais de 10 anos de experiência em atendimento ao cliente e vendas.  
-**Desenvolvedora de Software Júnior** em formação, unindo front-end, back-end e experiência de usuário.
+Desenvolvedora de Software Júnior formada em Sistemas para Internet, com foco em desenvolvimento Full Stack, APIs REST e experiência do usuário (UX).
 
 ## 🏢 Atuação Profissional
 
