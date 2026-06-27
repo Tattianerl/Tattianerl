@@ -1,39 +1,133 @@
-# Olá! Eu sou Tatiane R Lima (@tattianerl) 👋
-Desenvolvedora de Software Júnior formada em Sistemas para Internet, com foco em desenvolvimento Full Stack, APIs REST e experiência do usuário (UX).
+# Olá! Eu sou Tatiane R. Lima 👋
 
-## 🏢 Atuação Profissional
+💻 **Desenvolvedora de Software Júnior** formada em **Sistemas para Internet**, apaixonada por transformar ideias em soluções digitais. Tenho foco em **Desenvolvimento Full Stack**, criação de **APIs REST**, aplicações **Web e Mobile** e **Experiência do Usuário (UX)**.
 
-- +10 anos em atendimento ao cliente e vendas, com foco em comunicação, empatia e satisfação do usuário.  
-- Experiência prática em UX Design e desenvolvimento web, projetando interfaces intuitivas e soluções centradas no usuário.  
+Atualmente busco minha primeira oportunidade na área de desenvolvimento, colocando em prática conhecimentos adquiridos em projetos autorais e estudos contínuos.
 
-## 📱 Especialidades
+---
 
-- **Front-end:** React.js, HTML5, CSS3, JavaScript moderno (ES6+), responsividade, acessibilidade  
-- **Back-end:** Node.js, Express, .NET  
-- **Banco de Dados:** MySQL, SQL Server, MongoDB  
-- **UX/UI:** Figma, prototipagem, design centrado no usuário, usabilidade  
-- **Ferramentas:** Git & GitHub, uso de APIs REST, integração contínua  
+## 🚀 Tecnologias
 
-## 🚀 O que me motiva
+### Front-end
+- React.js
+- React Native
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
 
-Atualmente estou focada em me desenvolver como **Desenvolvedora Full Stack**, buscando oportunidades onde possa construir soluções completas (front & back) aliadas à UX/UI.  
-Também me dedico a estudar **IA Generativa** para potencializar projetos criativos, automações e interfaces mais inteligentes.
+### Back-end
+- Node.js
+- Express
+- .NET
 
-## 📌 Projetos em Destaque
+### Banco de Dados
+- MySQL
+- SQL Server
+- MongoDB
 
-🌐 [Meu Portfólio Pessoal](https://tattianerl.github.io/Portifolio/) — site pessoal em que reúno meus projetos, apresentação profissional, e stack de tecnologias.  
+### UX/UI
+- Figma
+- Prototipação
+- Design Centrado no Usuário
+- Acessibilidade
+- Responsividade
 
-[Gerador de QrCode](https://glassqr.vercel.app/)- Gerador de QR Code moderno, rápido e inteligente, capaz de interpretar diferentes tipos de dados (Wi-Fi, contato, WhatsApp, etc.) e gerar códigos prontos com identidade visual personalizada.
+### Ferramentas
+- Git & GitHub
+- APIs REST
+- VS Code
+- Insomnia 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=Api-node-JWT&theme=dark)](https://github.com/tattianerl/Api-node-JWT)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=interface-finance-app&theme=dark)](https://github.com/tattianerl/interface-finance-app)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=lab-natty-or-not&theme=dark)](https://github.com/tattianerl/lab-natty-or-not)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=wikipedia-clone&theme=dark)](https://github.com/tattianerl/wikipedia-clone)  
+---
 
-## 📊 GitHub Stats
+## 💼 Experiência Profissional
+
+Durante mais de **10 anos** atuei nas áreas de atendimento ao cliente e vendas, desenvolvendo habilidades como:
+
+- Comunicação
+- Trabalho em equipe
+- Resolução de problemas
+- Organização
+- Empatia
+- Foco na experiência do usuário
+
+Hoje aplico essas competências no desenvolvimento de software, criando soluções funcionais, intuitivas e centradas nas necessidades das pessoas.
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Full Stack
+- Arquitetura de APIs REST
+- React Native
+- IA Generativa aplicada ao desenvolvimento
+- Boas práticas de código e Clean Code
+
+---
+
+# ⭐ Projetos em Destaque
+
+### 🌐 Portfólio
+
+Meu portfólio profissional reúne meus projetos, habilidades técnicas e informações de contato.
+
+🔗 **Acesse:**
+
+https://tattianerl.github.io/Portifolio/
+
+---
+
+### 📱 Glass QR
+
+Gerador inteligente de QR Code com suporte para:
+
+- Wi-Fi
+- WhatsApp
+- Contatos
+- URLs
+- Personalização visual
+
+🔗 **Acesse:**
+
+https://glassqr.vercel.app/
+
+---
+
+## 📌 Alguns Repositórios
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=care-home-web&theme=dark)](https://github.com/tattianerl/care-home-web)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=care-home-api&theme=dark)](https://github.com/tattianerl/care-home-api)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=api-gastronomia-ChefHub&theme=dark)](https://github.com/tattianerl/api-gastronomia-ChefHub)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tattianerl&repo=Api-node-JWT&theme=dark)](https://github.com/tattianerl/Api-node-JWT)
+
+---
+
+## 📊 Estatísticas
 
 ![Tatiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=tattianerl&show_icons=true&theme=dark)
 
-## 🧠 Linguagens Mais Usadas
+---
+
+## 🧠 Linguagens Mais Utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tattianerl&layout=compact&theme=dark)
+
+---
+
+## 📫 Vamos nos conectar
+
+🌐 **Portfólio**  
+https://tattianerl.github.io/Portifolio/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/tati-lima85
+
+📧 **E-mail**  
+tatilima762@gmail.com
+
+🐙 **GitHub**  
+https://github.com/Tattianerl
